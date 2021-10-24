@@ -13,6 +13,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 Veja os tutoriais publicados do Sigmoidal:
 
 * **House Price Competition - Treinamento de Modelo de Predição** https://bit.ly/3dn5Lo0
+* **Análise de transações fraudulentas - Desafio AgiBank** https://bit.ly/3vGBd8Q
 ---
 
 **Background in:** Python, Machine Learning, and Computer Vision.
