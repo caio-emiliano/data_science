@@ -10,7 +10,7 @@
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja meus projetos publicados:
 
 * **House Price Competition - Treinamento de Modelo de Predição** https://bit.ly/3dn5Lo0
 * **Análise de transações fraudulentas - Desafio AgiBank** https://bit.ly/3vGBd8Q
