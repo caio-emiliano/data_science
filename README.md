@@ -14,7 +14,8 @@ Veja meus projetos publicados:
 
 * **House Price Competition - Treinamento de Modelo de Predição** https://bit.ly/3dn5Lo0
 * **Análise de transações fraudulentas - Desafio AgiBank** https://bit.ly/3vGBd8Q
----
+* **Desafio Solvimm - Engenharia de Dados** https://bit.ly/3Bctwbq
+--- 
 
 **Background in:** Python, Machine Learning, and Computer Vision.
 
