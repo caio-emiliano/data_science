@@ -15,6 +15,7 @@ Veja meus projetos publicados:
 * **House Price Competition - Treinamento de Modelo de Predição** https://bit.ly/3dn5Lo0
 * **Análise de transações fraudulentas** https://bit.ly/3fuTsK7
 * **Desafio Solvimm - Engenharia de Dados** https://bit.ly/3Bctwbq
+* **Implementação do algoritmo Perceptron - Classificação de gaussianas** https://bit.ly/42B8TTP
 --- 
 
 **Background in:** Python, Machine Learning, and Computer Vision.
