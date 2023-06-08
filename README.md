@@ -5,7 +5,7 @@
 </p>
 
 # Caio Emiliano
-<sub>Student of Computer Engeeniring at CEFET/RJ</sub>
+<sub>Data Scientist and Computer Engineering graduated from CEFET-RJ</sub>
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Deep Learning.
 
